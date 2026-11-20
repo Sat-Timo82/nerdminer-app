@@ -1,6 +1,6 @@
 {
-  "build": 5,
-  "version": "0.5",
-  "apk": "https://github.com/Sat-Timo82/nerdminer-app/releases/download/v0.5/nerdminer-app-0.5.apk",
-  "notes": "Version 0.5: Miner-Übersicht mit Offline-Anzeige, Pool-Miner mit Wolke"
+  "build": 6,
+  "version": "0.6",
+  "apk": "https://github.com/Sat-Timo82/nerdminer-app/releases/download/v0.6/nerdminer-app-0.6.apk",
+  "notes": "Version 0.6: QR-Code scannen, Meetup-Suche mit Karte und Umkreis"
 }
