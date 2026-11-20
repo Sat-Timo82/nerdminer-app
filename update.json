@@ -1,0 +1,6 @@
+{
+  "build": 3,
+  "version": "0.3",
+  "apk": "https://github.com/Sat-Timo82/nerdminer-app/releases/download/v0.3/nerdminer-app-0.3.apk",
+  "notes": "Version 0.3: Miner-Suche, Pool-Adressen, Update-Funktion, Mempool-Verbesserungen"
+}
