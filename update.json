@@ -1,6 +1,6 @@
 {
-  "build": 9,
-  "version": "0.9",
-  "apk": "https://sat-timo82.github.io/NerdClock-Updates/beta-k8rtqn/nerdminer-app-0.9.apk",
-  "notes": "Version 0.9: Einkaufen mit Bitcoin mit Links (Webseite, Social Media, Telefon, E-Mail), Adresse und CoinPages-Einträge, Favoriten öffnen die Location"
+  "build": 10,
+  "version": "0.10",
+  "apk": "https://sat-timo82.github.io/NerdClock-Updates/beta-k8rtqn/nerdminer-app-0.10.apk",
+  "notes": "Version 0.10: Einkaufen mit Bitcoin mit Länderauswahl, Meetups-Suche per PLZ korrigiert, Widgets (Bitcoin-Kurs, Bitcoin-News klein und groß, Einkaufen, Meine Miner)"
 }
