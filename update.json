@@ -1,6 +1,6 @@
 {
-  "build": 6,
-  "version": "0.6",
-  "apk": "https://github.com/Sat-Timo82/nerdminer-app/releases/download/v0.6/nerdminer-app-0.6.apk",
-  "notes": "Version 0.6: QR-Code scannen, Meetup-Suche mit Karte und Umkreis"
+  "build": 7,
+  "version": "0.7",
+  "apk": "https://github.com/Sat-Timo82/nerdminer-app/releases/download/v0.7/nerdminer-app-0.7.apk",
+  "notes": "Version 0.7: Pool-Miner anklickbar mit Laufzeit, Hashrate und Verlauf"
 }
