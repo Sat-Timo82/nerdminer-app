@@ -1,6 +1,6 @@
 {
-  "build": 7,
-  "version": "0.7",
-  "apk": "https://github.com/Sat-Timo82/nerdminer-app/releases/download/v0.7/nerdminer-app-0.7.apk",
-  "notes": "Version 0.7: Pool-Miner anklickbar mit Laufzeit, Hashrate und Verlauf"
+  "build": 8,
+  "version": "0.8",
+  "apk": "https://github.com/Sat-Timo82/nerdminer-app/releases/download/v0.8/nerdminer-app-0.8.apk",
+  "notes": "Version 0.8: Blockchance über alle Miner, Zeitraum antippen"
 }
