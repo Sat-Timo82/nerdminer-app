@@ -1,6 +1,6 @@
 {
-  "build": 8,
-  "version": "0.8",
-  "apk": "https://github.com/Sat-Timo82/nerdminer-app/releases/download/v0.8/nerdminer-app-0.8.apk",
-  "notes": "Version 0.8: Blockchance über alle Miner, Zeitraum antippen"
+  "build": 9,
+  "version": "0.9",
+  "apk": "https://sat-timo82.github.io/NerdClock-Updates/beta-k8rtqn/nerdminer-app-0.9.apk",
+  "notes": "Version 0.9: Einkaufen mit Bitcoin mit Links (Webseite, Social Media, Telefon, E-Mail), Adresse und CoinPages-Einträge, Favoriten öffnen die Location"
 }
