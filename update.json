@@ -1,6 +1,6 @@
 {
-  "build": 11,
-  "version": "0.11",
-  "apk": "https://sat-timo82.github.io/NerdClock-Updates/beta-k8rtqn/nerdminer-app-0.11.apk",
-  "notes": "Version 0.11: Währungsauswahl mit Suche, Meetup-Favoriten und Erinnerungen, Karte einklappbar, Einstellungen (Sprache, Umkreis, Land, Benachrichtigungen, Widget-Takt), Widgets (Bitcoin-Kurs, Bitcoin-News klein und groß, Meine Miner)"
+  "build": 12,
+  "version": "0.12",
+  "apk": "https://sat-timo82.github.io/NerdClock-Updates/beta-k8rtqn/nerdminer-app-0.12.apk",
+  "notes": "Version 0.12: Adress- und Transaktionsprüfung in den Extras, Mempool-Seite mit Preis, Satoshi-Rechner mit GBP, Einkaufen mit Social-Links, Blockhöhe in der Gebühren-Kachel, Miner-Widgets in zwei Größen"
 }
