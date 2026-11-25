@@ -1,6 +1,6 @@
 {
-  "build": 14,
-  "version": "0.14",
-  "apk": "https://sat-timo82.github.io/NerdClock-Updates/beta-k8rtqn/nerdminer-app-0.14.apk",
-  "notes": "Version 0.14: Pool-Logo im Mempool-Widget, Blockchance mit Zeitraum (Einstellungen und Widget), eine Aktualisierungszeit für alle Widgets, QR-Scanner ohne Google-Dienste, Schutz vor privaten Schlüsseln und Seed-Phrasen in der Adressprüfung, Standort-Knopf, Karte zoomen und verschieben, Bitcoin-Design"
+  "build": 15,
+  "version": "0.15",
+  "apk": "https://sat-timo82.github.io/NerdClock-Updates/beta-k8rtqn/nerdminer-app-0.15.apk",
+  "notes": "Version 0.15: neues Blockhöhe-Widget mit Pool-Logo, Mempool-Widget mit Blockhöhe und Pool in zwei Zeilen, saubere Widget-Ränder in den Ecken, Blockchance mit Zeitraum, eine Aktualisierungszeit für alle Widgets, QR-Scanner ohne Google-Dienste, Schutz vor privaten Schlüsseln, Standort-Knopf, Karte zoomen und verschieben, Bitcoin-Design"
 }
