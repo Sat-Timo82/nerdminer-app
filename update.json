@@ -1,6 +1,6 @@
 {
-  "build": 13,
-  "version": "0.13",
-  "apk": "https://sat-timo82.github.io/NerdClock-Updates/beta-k8rtqn/nerdminer-app-0.13.apk",
-  "notes": "Version 0.13: neues Bitcoin-Design (Schwarz mit Bitcoin-Orange, umschaltbar in den Einstellungen), Standort-Knopf bei Meetups und Einkaufen, Karte zoomen und verschieben, Karte bei Meetups per X ausblendbar"
+  "build": 14,
+  "version": "0.14",
+  "apk": "https://sat-timo82.github.io/NerdClock-Updates/beta-k8rtqn/nerdminer-app-0.14.apk",
+  "notes": "Version 0.14: Pool-Logo im Mempool-Widget, Blockchance mit Zeitraum (Einstellungen und Widget), eine Aktualisierungszeit für alle Widgets, QR-Scanner ohne Google-Dienste, Schutz vor privaten Schlüsseln und Seed-Phrasen in der Adressprüfung, Standort-Knopf, Karte zoomen und verschieben, Bitcoin-Design"
 }
